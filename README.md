@@ -6,7 +6,7 @@
 
 ![3D mode](screens/8.png)
 
-![2D mode](screens/3.jpg)
+![2D mode](screens/9.png)
 
 ![3D mode](screens/4.jpg)
 
